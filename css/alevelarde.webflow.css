@@ -1138,7 +1138,29 @@ blockquote {
   position: absolute;
   top: 0;
   left: 0;
+  height: 600px;
 }
+/* OJO Projects home */
+.project-el-img_0 {
+  border-radius: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 600px;
+  background-color: #d64e29;
+}
+
+.project-el-img_1 {
+  border-radius: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  background-color: #d64e29;
+  height: 800px;
+}
+
+/* OJO Projects home end */
 
 .project-el-img.invisible {
   opacity: 0;
@@ -1166,6 +1188,7 @@ blockquote {
   text-decoration: none;
 }
 
+/* ojo */
 .project-el-img-container {
   border-radius: 8px;
   justify-content: center;
@@ -1174,6 +1197,27 @@ blockquote {
   position: relative;
   overflow: hidden;
 }
+.project-el-img-container_0 {
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  height: 600px;
+}
+
+.project-el-img-container_1 {
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  height: 700px;
+}
+/* ojo end */
+
 
 .custom-cursor-text {
   display: none;
