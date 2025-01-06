@@ -1216,6 +1216,18 @@ blockquote {
   overflow: hidden;
   height: 700px;
 }
+/*Projects page */
+.project-el-img-container__PP_0 {
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  height: 600px;
+  background-color: #fb7e0a;
+}
+/* Projects page end */
 /* ojo end */
 
 
