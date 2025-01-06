@@ -1225,7 +1225,15 @@ blockquote {
   position: relative;
   overflow: hidden;
   height: 600px;
-  background-color: #fb7e0a;
+}
+.project-el-img-container__PP_1 {
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  height: 700px;
 }
 /* Projects page end */
 /* ojo end */
